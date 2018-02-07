@@ -27,6 +27,7 @@ The diagram below illustrates the different components which make up the Dispatc
   (See [minikube](#minikube)).
 * Kubectl installed and configured for minikube.
 * Running on MacOS or Linux
+* git clone the Dispatch repository
 
 ### Start Minikube and initialize Helm
 For MacOS
